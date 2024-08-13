@@ -30,5 +30,5 @@ python snek.py
 ```
 
 ## Build with
-> Python 3.12.5
-> pygame library
+* Python 3.12.5
+* pygame library
